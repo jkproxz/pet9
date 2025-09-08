@@ -1,2 +1,2 @@
 
-{giapsi-oknote}
+{giapsi-oknote} {tranquang-oknote}
