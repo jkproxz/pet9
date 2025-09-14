@@ -1,1 +1,1 @@
-{phatphat-oknote}  {phuongphuong-oknote} {khangkhang3-oknote} {giapsi-oknote} {tranquang-oknote} {trandoanh-oknote} {binhbinh-oknote} {hauhau-oknote} {gaga-oknote} {duthanchi-oknote} {tienthanh-oknote} {haha-oknote} {thanhphagame-oknote}
+{phatphat-oknote}  {phuongphuong-oknote} {khangkhang3-oknote} {giapsi-oknote} {tranquang-oknote} {trandoanh-oknote} {binhbinh-oknote} {hauhau-oknote} {gaga-oknote} {duthanchi-okxoa} {tienthanh-oknote} {haha-oknote} {thanhphagame-oknote} {duthanchi2-oknote}
